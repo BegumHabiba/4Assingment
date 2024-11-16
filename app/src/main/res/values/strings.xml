@@ -1,0 +1,36 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">BuySmart</string>
+    <string name="enjoy_browsing_our_latest_arrivals">Enjoy browsing our latest arrivals</string>
+
+    <!-- Categories -->
+    <string-array name="categories">
+        <item>Electronics</item>
+        <item>Clothing</item>
+        <item>Home Appliances</item>
+    </string-array>
+
+    <!-- Products for Electronics -->
+    <string-array name="electronics">
+        <item>Smartphone</item>
+        <item>Laptop</item> <!-- Additional product -->
+        <item>Headphones</item> <!-- Additional product -->
+        <item>Smartwatch</item> <!-- Additional product -->
+    </string-array>
+
+    <!-- Products for Clothing -->
+    <string-array name="clothing">
+        <item>T-shirt</item>
+        <item>Jeans</item> <!-- Additional product -->
+        <item>Jacket</item> <!-- Additional product -->
+        <item>Sneakers</item> <!-- Additional product -->
+    </string-array>
+
+    <!-- Products for Home Appliances -->
+    <string-array name="home_appliances">
+        <item>Refrigerator</item>
+        <item>Washing Machine</item> <!-- Additional product -->
+        <item>Microwave</item> <!-- Additional product -->
+        <item>Air Conditioner</item> <!-- Additional product -->
+    </string-array>
+</resources>
